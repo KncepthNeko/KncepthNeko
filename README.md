@@ -16,7 +16,7 @@
 
 <br clear="right" />
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Python-0F2A3F?logo=python&logoColor=FAF6EE&style=for-the-badge" height="25" alt="python logo" />
   <img width="4" />
   <img src="https://img.shields.io/badge/C%23-1B3A5C?logo=csharp&logoColor=FAF6EE&style=for-the-badge" height="25" alt="csharp logo" />
